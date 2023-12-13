@@ -56,7 +56,6 @@ Verifies DNSSEC implementation on domains.
 Run the application:
 ```
 python main.py
-
 ```
 
 Follow the on-screen menu to select the desired functionality. Each option corresponds to a specific module and its capabilities.
@@ -69,6 +68,3 @@ Distributed under the [MIT License](LICENSE).
 
 ## Disclaimer
 This tool is for educational and ethical testing purposes only. The author is not responsible for misuse or damage caused by this tool.
-
-## Contact
-For queries or feedback, contact [Your Email](mailto:youremail@example.com).
